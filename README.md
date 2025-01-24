@@ -6,4 +6,5 @@ You can compensate for it by reducing the torque and velocity of the SVD and its
   -Abstractions manage complexity in a program by only showing the code and data the user needs to see for the project, and leaving other things such as specific numbers and calculations out for simplicity purposes.
 
   Link to video: https://drive.google.com/file/d/1utEMLVHH6BK_hum4R1mVWGykgEmoLazs/view
+  Link to the google doc from before: https://docs.google.com/document/d/11ILSRmuc472V1dbxv8SnvEczDqh5h-EAlNicPdP4AMQ/edit?tab=t.0#heading=h.z9zvwwg7fxy7
   
